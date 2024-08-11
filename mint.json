@@ -1,9 +1,9 @@
 {
-  "$schema": "https://cdn.assistantscenter.com/lzq0tz1n",
+  "$schema": "https://mintlify.com/schema.json",
   "name": "Starter Kit",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "https://cdn.assistantscenter.com/lzq0tz1n",
+    "light": "https://cdn.assistantscenter.com/lzq0tz1n"
   },
   "favicon": "/favicon.svg",
   "colors": {
