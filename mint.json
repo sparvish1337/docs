@@ -22,8 +22,8 @@
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Add Bot",
+    "url": "https://discord.com/oauth2/authorize?client_id=1271056685716471911&permissions=8&integration_type=0&scope=bot+applications.commands"
   },
   "tabs": [
     {
